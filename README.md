@@ -1,2 +1,2 @@
-# supreme-system
+# uSDX mod
 uSDX mod
